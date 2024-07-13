@@ -1,6 +1,4 @@
-Sure! Here's a sample README file for a Diabetes Prediction project using Random Forest that you can use on GitHub:
 
----
 
 # Diabetes Prediction Using Random Forest
 
